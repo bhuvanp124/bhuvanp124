@@ -1,12 +1,8 @@
 <div align="center">
 
-# Bhuvan Prakash
+<img src="https://raw.githubusercontent.com/bhuvanp124/bhuvanp124/main/assets/header.svg" alt="Bhuvan Prakash — Software Engineer · Android & Full-Stack" width="100%"/>
 
-**Software Engineer** · Android & Full-Stack
-
-Final-year B.E. Computer Science (Data Science) · Class of 2026 · Bangalore, India
-
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-bhuvanp124s-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-p-77168925a/)
